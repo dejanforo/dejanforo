@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @dejanforo
-- 👀 I’m interested in PowerShell, Microsoft Exchange, Active Directory, Office 365
+- 👀 I’m interested in PowerShell, Microsoft Exchange, Active Directory, Microsoft 365
+- From Zurich, Switzerland ![Swiss Flag](https://img.shields.io/badge/Location-Switzerland-red?style=flat&logo=target)
 - Founder and CEO of Exchangemaster GmbH, https://www.exchangemaster.ch
 - 📫 dejan.foro@exchangemaster.ch
